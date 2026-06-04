@@ -15,11 +15,7 @@ This repository contains Python assignments, practice exercises, and projects co
 ```
 unified-mentor-python-internship/
 │
-├── Assignment-01/
-├── Assignment-02/
-├── Assignment-03/
-├── Mini-Projects/
-├── Final-Project/
+├── ├── Python Data Structure Assignment Day 5.ipynb
 └── README.md
 ```
 
@@ -59,7 +55,7 @@ Projects completed during the internship will be added to this repository along 
 ## Contact
 
 GitHub Profile: https://github.com/mrunmayiam
-
+Whatsapp Number: 9403950723
 ---
 
 ### Unified Mentor Python Internship Repository
